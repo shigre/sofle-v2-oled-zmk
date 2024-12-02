@@ -80,11 +80,11 @@ layers:
   - '3'
   - '4'
   - '5'
-  - '6'
-  - '7'
+  - '['
+  - ']'
   - '8'
   - '9'
-  - '0'
+  - UP ARROW
   - F12
   - {t: ▽, type: trans}
   - '!'
@@ -92,12 +92,12 @@ layers:
   - '#'
   - $
   - '%'
-  - ^
-  - '&'
-  - KP MULTIPLY
-  - (
-  - )
-  - '|'
+  - ;
+  - ''''
+  - HOME
+  - PAGE UP
+  - LEFT ARROW
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - '='
   - '-'
@@ -108,9 +108,9 @@ layers:
   - {t: ▽, type: trans}
   - '['
   - ']'
-  - ;
-  - ':'
-  - \
+  - END
+  - PAGE DOWN
+  - DOWN ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
