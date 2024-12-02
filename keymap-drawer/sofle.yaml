@@ -1,7 +1,7 @@
 layout: {qmk_keyboard: sofle/rev1}
 layers:
-  default: ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', BACKSPACE, TAB, Q, W, E, R, T, Y, U, I, O, P, \, Ctl+ TAB, A, S, D, F, G, H, J, K, L, ;, ENTER,
-    LSHFT, Z, X, C, V, B, MUTE, '', N, M, ',', ., /, lower, ESCAPE, LEFT WIN, Alt+ LCTRL, lower, SPACE, SPACE, raise, AGr+ RCTRL, Gui+ RALT, Sft+ RGUI]
+  default: ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', BACKSPACE, TAB, Q, W, E, R, T, Y, U, I, O, P, \, LCTRL, A, S, D, F, G, H, J, K, L, ;, ENTER, LSHFT,
+    Z, X, C, V, B, MUTE, '', N, M, ',', ., /, lower, ESCAPE, LEFT WIN, LEFT ALT, raise, SPACE, SPACE, raise, AGr+ RIGHT ALT, RGUI, RIGHT SHIFT]
   lower:
   - {t: ▽, type: trans}
   - F1
@@ -9,30 +9,30 @@ layers:
   - F3
   - F4
   - F5
+  - '-'
+  - '='
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - F6
   - F7
   - F8
   - F9
   - F10
-  - F11
-  - '`'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
   - '['
   - ']'
-  - '8'
-  - '9'
+  - ''
+  - ''
   - UP ARROW
-  - F12
+  - ''
   - {t: ▽, type: trans}
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
+  - F11
+  - F12
+  - ''
+  - ''
+  - ''
   - ;
   - ''''
   - HOME
@@ -40,11 +40,11 @@ layers:
   - LEFT ARROW
   - RIGHT ARROW
   - {t: ▽, type: trans}
-  - '='
-  - '-'
-  - KP PLUS
-  - '{'
-  - '}'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
@@ -117,10 +117,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -178,10 +178,10 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
   - {type: held}
+  - ''
+  - ''
+  - ''
   - ''
   - ''
   - ''
