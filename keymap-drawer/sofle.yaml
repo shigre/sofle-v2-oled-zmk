@@ -82,24 +82,24 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG UP
+  - ''
   - {t: ▽, type: trans}
-  - UP
+  - ''
   - {t: ▽, type: trans}
-  - '0'
-  - {t: ▽, type: trans}
+  - ''
+  - UP ARROW
   - {t: ▽, type: trans}
   - LALT
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
   - CLCK
-  - PG DN
+  - ''
+  - ''
+  - HOME
+  - PG UP
   - LEFT
-  - DOWN
   - RIGHT
-  - DEL
-  - BSPC
   - {t: ▽, type: trans}
   - UNDO
   - CUT
@@ -110,9 +110,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - END
+  - PG DN
+  - DOWN ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
